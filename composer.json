@@ -1,0 +1,14 @@
+{
+    "name": "faceless/extensions",
+    "description": "Allows any application to have modules/pckackages/extensions & register them with the application for use in the application",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Lilitha Mathangana",
+            "email": "lightlitha@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
